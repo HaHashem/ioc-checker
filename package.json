@@ -1,0 +1,7 @@
+{
+  "name": "ioc-checker",
+  "version": "1.0.0",
+  "description": "Browser-based IOC extractor, sanitizer and multi-platform search launcher. No API keys.",
+  "scripts": { "test": "node tests/ioc.test.js" },
+  "license": "MIT"
+}
